@@ -17,4 +17,7 @@ git remote add origin https://github.com/huixpszx/git-admin-vue.git
 
 5.git commit -m "修改的原因"
 从工作区，才能再添加到本地仓库，需要提交的原因。为什么要提交？
+远程地址
 
+6.git push -u origin
+推送到github远程仓库
