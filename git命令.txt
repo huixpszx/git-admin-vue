@@ -1,0 +1,20 @@
+
+安装git软件，打开git，不是在cmd
+
+1.git init
+新建一个本地仓库
+
+2.git remote 动作 名称 远程地址
+git remote add origin https://github.com/huixpszx/git-admin-vue.git
+
+3.git status
+查看本地仓库的文件状态
+
+4.git add .
+添加本地文件的改动到工作区，包括新建，修改，删除，
+否则只是表面上被操作，git并不知道。
+新建的文件，在缓存区，必须添加到工作区，git才能监管
+
+5.git commit -m "修改的原因"
+从工作区，才能再添加到本地仓库，需要提交的原因。为什么要提交？
+
