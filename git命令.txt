@@ -24,3 +24,9 @@ git remote add origin https://github.com/huixpszx/git-admin-vue.git
 
 7.使用命令行推送可能会遇到翻墙问题
 直接使用提交工具？？
+
+8.git clone 
+类似为svn checkout
+
+9.git pull 
+类似下载最新版本
